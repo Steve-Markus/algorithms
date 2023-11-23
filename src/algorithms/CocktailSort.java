@@ -43,6 +43,7 @@ public class CocktailSort {
           swapped = true;
         }
       }
+
       start += 1;
     }
   }
